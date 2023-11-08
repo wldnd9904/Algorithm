@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "set": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "list": "cpp",
+        "typeinfo": "cpp",
+        "unordered_map": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    },
+}
